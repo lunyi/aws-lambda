@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lambda-simple-s3-funciton", "lambda-simple-s3-funciton\lambda-simple-s3-funciton.csproj", "{94075295-9E4B-4511-8C6A-DC5A38A61CD4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lambda-simple-s3-funciton.Tests", "lambda-simple-s3-funciton.Tests\lambda-simple-s3-funciton.Tests.csproj", "{64A0D6DC-4802-4F46-9FBC-21592EDC0533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94075295-9E4B-4511-8C6A-DC5A38A61CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94075295-9E4B-4511-8C6A-DC5A38A61CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94075295-9E4B-4511-8C6A-DC5A38A61CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94075295-9E4B-4511-8C6A-DC5A38A61CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A0D6DC-4802-4F46-9FBC-21592EDC0533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A0D6DC-4802-4F46-9FBC-21592EDC0533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A0D6DC-4802-4F46-9FBC-21592EDC0533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A0D6DC-4802-4F46-9FBC-21592EDC0533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FFC3C31-F7EA-4204-89F9-4AE3BA799386}
+	EndGlobalSection
+EndGlobal
